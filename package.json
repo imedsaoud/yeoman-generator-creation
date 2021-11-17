@@ -1,0 +1,19 @@
+{
+  "name": "generator-yeo",
+  "version": "1.0.0",
+  "description": "Exploration of yeoman generator creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imedsaoud/yeoman-generator-creation.git"
+  },
+  "author": "Imed Saoud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imedsaoud/yeoman-generator-creation/issues"
+  },
+  "homepage": "https://github.com/imedsaoud/yeoman-generator-creation#readme"
+}
